@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="channel_name">Channel name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter password</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Log in</string>
+    <string name="account">Account</string>
+    <string name="logout">Log out</string>
+    <string name="facebook_app_id">2849336742037755</string>
+    <string name="fb_login_protocol_scheme">fb2849336742037755</string>
+    <string name="search">Search</string>
+    <string name="edit_profile_picture">Edit profile picture</string>
+</resources>
